@@ -25,4 +25,14 @@ th, td {
 	text-align: left;
 	margin: 5px 10px;
 	padding: 6px;
+	letter-spacing: 0.5px;
+}
+
+.odd {
+	background-color: #597EA2;
+	color: #DEE5ED;
+}
+
+.even {
+	background-color: #DEE5ED;
 }
